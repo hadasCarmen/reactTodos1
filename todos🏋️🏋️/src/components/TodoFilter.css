@@ -1,0 +1,18 @@
+.formTodos{
+    display: flex;
+    flex-direction: column;
+
+    background-color: azure;
+    border: solid 2px;
+    border-color: rgb(163, 158, 158);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 3rem;
+}
+.formTodos>*{
+    padding: 0.2rem;
+}
+.buttonsTodos{
+    display: flex;
+    justify-content: space-between;
+}

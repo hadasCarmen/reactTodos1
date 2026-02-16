@@ -1,0 +1,14 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: azure;
+    border: solid 2px;
+    border-color: rgb(163, 158, 158);
+}
+.nav-bar>*{
+    margin: 1rem;
+}
+.rightNav>*{
+margin: 0.5rem;
+}

@@ -1,0 +1,8 @@
+.todo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: azure;
+    border: solid 2px;
+    border-color: rgb(163, 158, 158);
+}
